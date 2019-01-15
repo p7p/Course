@@ -1,6 +1,6 @@
 # Course
-##Text
-###Text
-*1
-*2
-*3
+## Text
+### Text
+* 1
+* 2
+* 3
